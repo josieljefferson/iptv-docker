@@ -12,7 +12,7 @@ CHANNELS = json.load(open("channels.json", encoding="utf-8"))
 
 @app.route("/playlist.m3u")
 def playlist():
-    lines = ["#EXTM3U"]
+    lines = ['#EXTM3U url-tvg="https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5, https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7, https://m3u4u.com/epg/782dyqdrqkh1xegen4zp, https://www.open-epg.com/files/brazil1.xml.gz, https://www.open-epg.com/files/brazil2.xml.gz, https://www.open-epg.com/files/brazil3.xml.gz, https://www.open-epg.com/files/brazil4.xml.gz, https://www.open-epg.com/files/portugal1.xml.gz, https://www.open-epg.com/files/portugal2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"']
     for c in CHANNELS:
         lines.append(
             f'#EXTINF:-1 tvg-id="{c["id"]}" tvg-name="{c["name"]}" '
@@ -20,44 +20,7 @@ def playlist():
         )
         lines.append(c["url"])
     return Response("\n".join(lines), mimetype="audio/x-mpegurl")
-##############
 
-@app.route("/playlist.m3u")
-def playlist():
-    epg_urls = ",".join([
-        "https://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5",
-        "https://m3u4u.com/epg/3wk1y24kx7uzdevxygz7",
-        "https://m3u4u.com/epg/782dyqdrqkh1xegen4zp",
-        "https://www.open-epg.com/files/brazil1.xml.gz",
-        "https://www.open-epg.com/files/brazil2.xml.gz",
-        "https://www.open-epg.com/files/brazil3.xml.gz",
-        "https://www.open-epg.com/files/brazil4.xml.gz",
-        "https://www.open-epg.com/files/portugal1.xml.gz",
-        "https://www.open-epg.com/files/portugal2.xml.gz",
-        "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
-        "https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"
-    ])
-
-    lines = [
-        f'#EXTM3U url-tvg="{epg_urls}"'
-    ]
-
-    for c in CHANNELS:  # se CHANNELS for dict, use: CHANNELS.values()
-        lines.append(
-            f'#EXTINF:-1 '
-            f'tvg-id="{c["id"]}" '
-            f'tvg-name="{c["name"]}" '
-            f'tvg-logo="{c["logo"]}",'
-            f'{c["name"]}'
-        )
-        lines.append(c["url"])
-
-    return Response(
-        "\n".join(lines),
-        mimetype="application/x-mpegURL"
-    )
-
-##############
 @app.route("/epg.xml")
 def epg():
     if not Path("epg.xml").exists():
