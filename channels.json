@@ -1,0 +1,146 @@
+[
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "WORKSHOP INSTRUÇÕES BÁSICAS PARA GESTÃO MUNICIPAL DO CADASTRO ÚNICO 1",
+    "logo": "https://imgur.com/DsFAXXo.png",
+    "url": "https://files.catbox.moe/ewz9rd.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "WORKSHOP INSTRUÇÕES BÁSICAS PARA GESTÃO MUNICIPAL DO CADASTRO ÚNICO 2",
+    "logo": "https://imgur.com/DsFAXXo.png",
+    "url": "https://files.catbox.moe/5hdnwb.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "WORKSHOP INSTRUÇÕES BÁSICAS PARA GESTÃO MUNICIPAL DO CADASTRO ÚNICO 3",
+    "logo": "https://imgur.com/DsFAXXo.png",
+    "url": "https://files.catbox.moe/d0vp9o.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "VEJA O QUE ACONTECE SE LIGAR O IDR, DPS E DISJUNTOR GERAL NA SEQUÊNCIA ERRADA",
+    "logo": "https://imgur.com/HqWfDQ2.png",
+    "url": "https://files.catbox.moe/u3jfz4.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "ESSA É A SOLUÇÃO QUANDO NÃO TEM ATERRAMENTO ELÉTRICO NA RESIDÊNCIA. ( ATERRAMENTO TNC-S )",
+    "logo": "https://imgur.com/HqWfDQ2.png",
+    "url": "https://files.catbox.moe/yb00ur.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "FAÇA ISSO PARA INSTALAR DPS EM QUADROS ANTIGOS SEM ATERRAMENTO",
+    "logo": "https://imgur.com/HqWfDQ2.png",
+    "url": "https://files.catbox.moe/en3wf2.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "FAÇA ISSO QUANDO NÃO TIVER ATERRAMENTO ELÉTRICO NA RESIDÊNCIA (ATERRAMENTO SEM HASTES)",
+    "logo": "https://imgur.com/HqWfDQ2.png",
+    "url": "https://files.catbox.moe/6xw08a.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "QUADRO SEM ATERRAMENTO VEJA COM FAZER SEM QUEBRAR PAREDES",
+    "logo": "https://imgur.com/HqWfDQ2.png",
+    "url": "https://files.catbox.moe/bn8ppt.mp4"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "VOCÊ DEVE LIGAR O NEUTRO NO TERRA! MESMO QUE O QUADRO (QDC) NÃO TENHA IDR NEM DPS",
+    "logo": "https://imgur.com/HqWfDQ2.png",
+    "url": "https://files.catbox.moe/6uespv.mp4"
+  },
+  {
+    "id": "TVAntena10(Portuguese).br",
+    "name": "ANTENA 10 HD",
+    "logo": "https://i.imgur.com/BqzBsdm.png",
+    "url": "https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/chunklist_w2123538353_b1396000.m3u8"
+  },
+  {
+    "id": "RedeTV(Portuguese).br",
+    "name": "O DIA TV",
+    "logo": "https://i.imgur.com/xbPIEDD.png",
+    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w753321210.m3u8"
+  },
+  {
+    "id": "RedeTV(Portuguese).br",
+    "name": "O DIA TV",
+    "logo": "https://i.imgur.com/xbPIEDD.png",
+    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w183304090.m3u8"
+  },
+  {
+    "id": "CancaoNova(Portuguese).br",
+    "name": "RÁDIO CANÇÃO NOVA - CACHOEIRA PAULISTA 89.1",
+    "logo": "https://d2i9ujkx0lgi9s.cloudfront.net/account1-i1/embed/860/thumb_17627_thumbnail__836x1280px__radio_cancao_nova_-_cachoeira_paulista_89.1-poster-1696429235.png",
+    "url": "https://streaming.fox.srv.br/stream/8074"
+  },
+  {
+    "id": "CancaoNova(Portuguese).br",
+    "name": "RÁDIO CANÇÃO NOVA - CACHOEIRA PAULISTA 89.1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKz_ESX35P5Irwj18dscgpIpt1-R9NmOUYjpTaAiyY6YpnystW6ceOzcQ&s=10",
+    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/radiocnova_720p/chunklist_w1982794369.m3u8"
+  },
+  {
+    "id": "CancaoNova(Portuguese).br",
+    "name": "RÁDIO CANÇÃO NOVA 96.3MHZ - CACHOEIRA PAULISTA",
+    "logo": "https://d2i9ujkx0lgi9s.cloudfront.net/account1-i1/embed/1818/thumb_17627_thumbnail__836x1280px__radio_cancao_nova_-_cachoeira_paulista_96.3-poster-1696430015.png",
+    "url": "https://streaming.fox.srv.br/stream/8104"
+  },
+  {
+    "id": "CancaoNova(Portuguese).br",
+    "name": "TV CANÇÃO NOVA",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png",
+    "url": "https://www.youtube.com/user/tvcancaonova/live"
+  },
+  {
+    "id": "CancaoNova(src01).pt",
+    "name": "TV CANÇÃO NOVA PT",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSVzyD-TnBiJSUeVfuMz4Qn5eMtxDKuluBLeddUP290Xe7WOdrtC2q_XZ&s=10",
+    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w785649869.m3u8"
+  },
+  {
+    "id": "TVCidadeVerde(Portuguese).br",
+    "name": "TV CIDADE VERDE",
+    "logo": "https://cdn.tvcidadeverde.com.br/storage/webdisco/logos/371d174f303942df3b554b0e5985c8d4.png",
+    "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "TV CIDADE VERDE PICOS",
+    "logo": "https://i.imgur.com/rkGbMJL.png",
+    "url": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w1496024979.m3u8"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "TV CIDADE VERDE PICOS FHD",
+    "logo": "https://i.imgur.com/rkGbMJL.png",
+    "url": "https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w685970594.m3u8"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "TV CIDADE VERDE TERESINA",
+    "logo": "https://i.imgur.com/rkGbMJL.png",
+    "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1115557601.m3u8"
+  },
+  {
+    "id": "SBT(Portuguese).br",
+    "name": "TV CIDADE VERDE TERESINA HD",
+    "logo": "https://i.imgur.com/rkGbMJL.png",
+    "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094170448.m3u8"
+  },
+  {
+    "id": "Cultura(Portuguese).br",
+    "name": "TV CULTURA",
+    "logo": "https://lo1.in/BR/cultr.png",
+    "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8"
+  },
+  {
+    "id": "TVAntena10(Portuguese).br",
+    "name": "TV GALLO",
+    "logo": "https://i.imgur.com/Go7equc.png",
+    "url": "https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w974707802.m3u8"
+  }
+]
